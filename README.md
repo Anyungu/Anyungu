@@ -2,8 +2,7 @@
 ### Glad you found me
 
 <img src="images/IMG_9861.JPG"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: right;" />
 
 
 Here are some ideas to get you started:
