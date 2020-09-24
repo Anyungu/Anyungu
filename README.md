@@ -1,5 +1,9 @@
-### Hi there, I'm Anyungu C. 👋
+### Hi there, I'm Anyungu C. 👋    
 ### Glad you found me
+
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 Here are some ideas to get you started:
