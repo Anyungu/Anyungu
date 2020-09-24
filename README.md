@@ -1,7 +1,7 @@
 ### Hi there, I'm Anyungu C. 👋    
 ### Glad you found me
 
-<img src="markdownmonstericon.png"
+<img src="images/IMG_9861.JPG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
