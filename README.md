@@ -2,7 +2,8 @@
 ### Glad you found me
 
 <img src="images/IMG_9861.JPG"
-     style="float: right; height: 1 px; width: 15px" />
+     height: 10 px width: 15px
+     style="float: right; " />
 
 
 Here are some ideas to get you started:
