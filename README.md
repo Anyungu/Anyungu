@@ -1,5 +1,5 @@
 ### 👊🏿👊🏿 Hi there, I'm Anyungu C. 
-### You must be looking for me. Glad you found me 😁 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+### You must be looking for me. Glad you found me 😁 (https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 
 
