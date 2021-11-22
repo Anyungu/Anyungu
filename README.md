@@ -1,4 +1,4 @@
-### 👊🏿👊🏿 Hi there, I'm [Anyungu C.](https://anyungu.github.io/portfolio/) 
+### 👊🏿👊🏿  Hi there, I'm [Anyungu C.](https://anyungu.github.io/portfolio/) 
 ### You must be looking for me. Glad you found me 😁
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
