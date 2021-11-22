@@ -1,5 +1,5 @@
-### Hi there, I'm Anyungu C. 👋    
-### Glad you found me
+### 👊🏿👊🏿 Hi there, I'm Anyungu C. 
+### You must be looking for me. Glad you found me 😁
 
 
 
