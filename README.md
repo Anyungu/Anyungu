@@ -1,9 +1,12 @@
 ### 👊🏿👊🏿 Hi there, I'm [Anyungu C.](https://anyungu.github.io/portfolio/) 
-### You must be looking for me. Glad you found me 
+### You must be looking for me. Glad you found me 😁
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anyungu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anyungu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
