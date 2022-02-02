@@ -10,13 +10,5 @@
 
 </p>
 
-Here are some ideas to get you started:
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
-- 🔭 I’m currently working on Shoplay PoC
-- 🌱 I’m currently learning microservices
-- 👯 I’m looking to collaborate on any projects
-- 🤔 I’m looking for help with python
-- 💬 Ask me about Spring Boot, React Native, Node GraphQL, Microservices
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am into mental wellness
